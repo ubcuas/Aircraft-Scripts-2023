@@ -1,0 +1,22 @@
+Component Name,Mass [g],X-Position from Datum [m],X-Moment [kg m],Y-Position from Datum [m],Mass * Position [kg m]
+Wings (Without Spar),53.644,-0.0427,-0.0023,-0.001355,-0.00007268762
+H-tail,22.89,1.9130,0.0438,0.017585,0.00040252065
+V-tail,22.89,1.9130,0.0438,0.0256,0.000585984
+Fuselage,2000,0.0996,0.1992,-0.2,-0.4
+Wing Spar,200,-0.0832,-0.0166,0.03685,0.00737
+Fuse to tail spar,155,0.977,0.1514,0.01891,0.00293105
+H tail spar,166.032,1.85,0.3072,0.01776,0.00294872832
+V tail spar,29.028,1.9,0.0552,0.256,0.007431168
+Light payload spar,80,,,,
+Medium payload spar,80,,0.0000,,0
+Fuselage Connection spar,150,,0.0000,,0
+Main motor spars,300,0.03,0.0090,0.01148064,0.003444192
+Battery,1600,-0.1050,-0.1680,0.1050,0.168
+Front Lift Propellers,45,-0.5000,-0.0225,,0
+Back Lift Propellers,45,0.8000,0.0360,,0
+Thrust Propellor,45,-0.1900,-0.0086,,0
+Front Lift Motors,238,-0.7000,-0.1666,,0
+Back Lift Motors,238,0.5000,0.1190,,0
+Thrust Motor,238,-0.1900,-0.0452,,0
+PDB Board,650,0,0.0000,,0
+Landing gear,112,0.4,0.0448,,0
